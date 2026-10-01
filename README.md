@@ -60,9 +60,11 @@ Message frequency may vary depending on your appointments, requests, and ongoing
 Message and Data Rates
 Message and data rates may apply depending on your mobile carrier and plan.
 
-Opt-Out
-You may opt out of SMS communications at any time by replying:
-STOP
+SMS Opt-Out and Help
+Recipients may opt out of SMS messages at any time.
+
+To stop receiving SMS messages, reply STOP to any message.
+For help, reply HELP to any message.
 
 After opting out, you will no longer receive SMS messages except for messages necessary to confirm your opt-out request.
 
