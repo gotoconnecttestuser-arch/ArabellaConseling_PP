@@ -36,11 +36,16 @@ We use your information solely to:
 - Maintain records required for operational and legal purposes
 
 SMS Consent and Data Sharing
-SMS consent is not shared with third parties or affiliates for marketing purposes.
 
-We do not sell, rent, or share your mobile information with third parties for promotional or marketing use.
+Data Sharing and Transfers
+Your data will not be transferred or shared with external organizations except where required by law.
 
-We may share information with service providers only as necessary to operate our messaging services, scheduling systems, or as otherwise required by law.
+Safeguards Against Unauthorized Sharing
+
+Access to consumer data is limited to authorized personnel with a legitimate business need.
+Internal access controls are used to help prevent unauthorized use or disclosure of consumer data.
+Confidentiality requirements apply to personnel who handle consumer data.
+Internal privacy protections are maintained to reduce the risk of unauthorized sharing.
 
 Opt-In
 Clients may opt in to receive SMS messages by:
